@@ -15,7 +15,7 @@ class Solution {
     }
 }
 
-public class twosum {
+public class two_sum {
     public static void main(String[] args) {
         Solution trial = new Solution();
         int[] nums = { 4, 7, 1, 8, 0 };

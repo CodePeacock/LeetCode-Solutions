@@ -15,5 +15,5 @@ class Solution:
 
 
 trial = Solution()
-nums: List[int] = [0,1,0,3,12]
+nums: List[int] = [0, 1, 0, 3, 12]
 print(trial.moveZeroes(nums))
