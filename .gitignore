@@ -218,3 +218,4 @@ replay_pid*
 *.exe
 *.out
 *.app
+/trial

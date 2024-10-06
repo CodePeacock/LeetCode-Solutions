@@ -1,4 +1,4 @@
-var productExceptSelf = function (nums) {
+let productExceptSelf = function (nums) {
     let result = new Array(nums.length).fill(1)
 
     let prefix = 1

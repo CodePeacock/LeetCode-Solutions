@@ -3,6 +3,9 @@ function maximumProfit(prices) {
     max_profit = 0
 
     //  Note: Both methods work great. Try them out by uncommenting
+
+    // Method 1
+
     // prices.forEach(price => {
     //     if (price < lowest_buying_price) {
     //         lowest_buying_price = price
@@ -13,6 +16,8 @@ function maximumProfit(prices) {
     //     }
     // }
     // )
+
+    // Method 2
 
     // for (let index = 0; index < prices.length; index++) {
     //     const price = prices[index];

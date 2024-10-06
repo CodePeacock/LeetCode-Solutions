@@ -21,12 +21,13 @@ You'll find solutions written in various languages:
 
 ## 🔍 Solved Problems
 
-Here's a list of some of the problems I've solved:
+Here's a comprehensive list  of the problems I've solved:
 
 - [Two Sum](https://leetcode.com/problems/two-sum/)
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ---
 
